@@ -2,8 +2,7 @@
 //  LocationService.swift
 //  RestaurantApp
 //
-//  Created by Gary Tokman on 11/17/18.
-//  Copyright © 2018 Gary Tokman. All rights reserved.
+//  Created by user191232 on 5/19/21.
 //
 
 import Foundation

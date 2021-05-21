@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Google maps image.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

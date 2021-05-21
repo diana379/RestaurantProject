@@ -2,15 +2,13 @@
 //  NetworkService.swift
 //  RestaurantApp
 //
-//  Created by Gary Tokman on 11/24/18.
-//  Copyright © 2018 Gary Tokman. All rights reserved.
+//  Created by user191232 on 5/19/21.
 //
 
 import Foundation
 import Moya
 
-#error("Enter a Yelp API key by visiting yelp.com/developers then delete this error.")
-private let apiKey = ""
+private let apiKey = "foH92Tc9RgIoHoRYLB8ng1f2K8mpm9zSig2qYVsom0wLMUWy1W1sgVsfWtXHkbrFCJDNi6YYbZtHfHcfbUJLg2FEx3j6Vm_Wf8R7428arLdKMLHYlnE7UGoU-synYHYx"
 
 enum YelpService {
     enum BusinessesProvider: TargetType {
